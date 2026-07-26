@@ -1,4 +1,4 @@
-# 🚀 Noz-Extension Backend
+#  Noz-Extension Backend
 
 Noz-Extension Backend is the core orchestration layer of the AI-powered SRE Assistant. It integrates **SigNoz MCP**, **GitHub MCP**, and **OpenAI GPT-5** to answer production-related questions by combining observability data with source code context.
 
